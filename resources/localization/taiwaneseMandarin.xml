@@ -919,8 +919,8 @@
 					<Item id="6102" name="隱藏"/>
 					<Item id="6103" name="Fluent UI: 小圖示"/>
 					<Item id="6104" name="Fluent UI: 大圖示"/>
-					<Item id="6129" name="Filled Fluent UI: 小圖示"/>
-					<Item id="6130" name="Filled Fluent UI: 大圖示"/>
+					<Item id="6129" name="實心 Fluent UI: 小圖示"/>
+					<Item id="6130" name="實心 Fluent UI: 大圖示"/>
 					<Item id="6105" name="標準: 小圖示"/>
 					<Item id="6011" name="著色"/>
 					<Item id="6012" name="全部"/>
@@ -1298,7 +1298,7 @@
 					</ComboBox>
 					<ComboBox id="6364">
 						<Element name="關閉"/>
-						<Element name="啟用在 Nextpad++ 起動時"/>
+						<Element name="啟用在 Nextpad++ 啟動時"/>
 						<Element name="啟用在 Nextpad++ 關閉時"/>
 					</ComboBox>
 					<Item id="6308" name="系統匣"/>
@@ -1485,7 +1485,7 @@
 				<Item id="90100" name="顯示所有字元"/>
 				<Item id="90101" name="顯示字元選項"/>
 				<Item id="90102" name="切換縮排指南"/>
-				<Item id="90103" name="Not Yet Implemented"/>
+				<Item id="90103" name="尚未實作"/>
 				<Item id="90104" name="從磁碟重新載入"/>
 				<Item id="90105" name="更改搜尋引擎"/>
 				<Item id="90106" name="運行錯誤"/>
